@@ -1,6 +1,6 @@
 ## Lorum ipsum
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/800px-STS120LaunchHiRes-edit1.jpg" style="display: block; margin: auto;" />
+<img src="images/space_shuttle" style="display: block; margin: auto;" />
 
 You can use the [editor on GitHub](https://github.com/Jaf1/personal-web-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
