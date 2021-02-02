@@ -1,6 +1,7 @@
 ## Lorum ipsum
 
 [first post](./posts/2021-02-02 test.md)
+
 [second post](./posts/2021-02-02 test 2.md)
 
 <img src="./images/space_shuttle.jpg" style="display: block; margin: auto;" />
