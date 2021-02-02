@@ -1,5 +1,7 @@
 ## Lorum ipsum
 
+[a relative link](./posts/2021-02-02 test 2.md)
+
 <img src="./images/space_shuttle.jpg" style="display: block; margin: auto;" />
 
 You can use the [editor on GitHub](https://github.com/Jaf1/personal-web-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
